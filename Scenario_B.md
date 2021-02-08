@@ -1,5 +1,3 @@
-## Scenario B: Applicant Who is Outside of the US
-
 Hi Jane,
 
 Thank you for your feedback. We are sorry to hear that you were ineligible to join our program. We will be happy to provide you more clarification.
