@@ -1,5 +1,3 @@
-## Scenario C: Applicant who Missed the Deadline
-
 Hi Anne, 
 
 Thank you for your interest in our Summer Interview Prep Course. We will be happy to assist and provide you further information.
