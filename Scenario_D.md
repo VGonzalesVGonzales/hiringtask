@@ -1,5 +1,3 @@
-## Scenario D: Tech Fellow is Following Up their Status
-
 Hello Dennis,
 
 Thank you for your interest in joining our Tech Fellow program. We are happy to check the status and provide you more details on your application.
