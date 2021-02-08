@@ -1,5 +1,3 @@
-## Scenario A: Request to Bump Up to Advanced Track  
-
 Hi John, 
 
 Thank you for your response. We understand that you wish to be accelerated to the Advance track, and we will be happy to review your request.
